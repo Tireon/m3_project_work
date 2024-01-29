@@ -60,7 +60,7 @@ cover/
 *.pot
 *.pyc
 __pycache__
-m3_project/db.sqlite3
+m3_project_work/db.sqlite3
 media
 
 # Flask stuff:
